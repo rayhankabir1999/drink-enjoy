@@ -1,0 +1,496 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+body{
+    background-color: #ebe3cd;
+    padding-top: 30px;
+}
+.nav-logo img.img-fluid {
+    margin-left: 20px;
+    width: 100px;
+}
+.navbar-light .navbar-toggler {
+    border: 2px solid white;
+    margin-right: 20px;
+}
+.collapse.show {
+    margin-top: 12px;
+    z-index: 99;
+}
+.navbar-light .navbar-nav .nav-link {
+    text-align: center;
+    margin: auto;
+    background-color: #12202f;
+} 
+.signup-btn {
+    margin: auto;
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+}
+.signup-btn:hover{
+    transform: scale(1);
+}
+.banner-content{
+    text-align: center;
+    margin: 50px 0;
+    padding: 8px 15px;
+}
+.banner-content h1 {
+    font-size: 26px;
+}
+.banner-content h5 {
+    font-size: 15px;
+}
+.banner-content p {
+    font-size: 15px;
+}
+.banner-img {
+    margin-top: -20px;
+}
+.booking input {
+    width: 100%;
+}
+.cheek-btn:hover{
+    transform: scale(1);
+}
+button.btn.cheek-btn {
+    width: 100%;
+}
+section#book-section {
+    padding: 0 20px;
+}
+.book-table{
+    margin-top: 25px;
+}
+.booking {
+    padding: 20px 15px;
+    margin-top: 20px;
+}
+#food-categories-sec{
+    margin: 40px 0;
+}
+#food-categories-sec h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.col-lg-4 {
+    margin-top: 20px;
+}
+.covit-content h3 {
+    font-size: 30px;
+}
+.our-restaurant-content {
+    text-align: center;
+    margin-top: 50px;
+    padding: 8px 15px;
+}
+.our-restaurant-content h2 {
+    font-size: 30px;
+}
+.our-restaurant-content p {
+    font-size: 13px;
+}
+.our-restaurant-img {
+    margin-top: 30px;
+}
+.fresh-and-healthy-content {
+    margin-top: 40px;
+    padding: 8px 15px;
+    text-align: center;
+}
+.fresh-and-healthy-content h2 {
+    font-size: 30px;
+}
+.fresh-and-healthy-content p {
+    font-size: 13px;
+}
+.chef-container {
+    padding: 8px 15px;
+    margin-top: 15px;
+    text-align: center;
+}
+.chef-content {
+    margin-top: 0px;
+}
+.chef-content h2 {
+    font-size: 30px;
+}
+.chef-content p {
+    font-size: 13px;
+}
+.col-lg-7 .chef-img{
+    margin-top: 50px;
+}
+.customer-content h2 {
+    font-size: 30px;
+    margin-bottom: -20px;
+}
+.col-lg-6 {
+    margin-top: 15px;
+}
+.customer-info {
+    margin-top: 15px;
+}
+.customer-info p{
+    font-size: 13px;
+}
+#customer-info {
+    margin-top: -48px;
+}
+.sub-content{
+    margin-top: 40px;
+ }
+ .sub-form {
+    padding: 0px;
+}
+ .sub-form.text-center {
+    margin-top: 20px;
+}
+#footer-sec {
+    text-align: center;
+    background-color: #f5880c;
+    margin-top: 30px;
+    padding: 12px 0;
+}
+.footer-1{
+    margin-top: 20px;
+}
+.social-icon .fa{
+    font-size: 16px;
+    margin: 0 3px;
+    padding: 3px 5px;
+ }
+ #footer-last{
+    margin-top: 0px;
+    margin-bottom: 20px;
+ }
+ 
+
+
+}
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+body{
+    background-color: #ebe3cd;
+    padding-top: 40px;
+}
+.nav-logo img.img-fluid {
+    margin-left: 40px;
+    width: 100px;
+}
+.navbar-light .navbar-toggler {
+    border: 2px solid white;
+    margin-right: 40px;
+}
+.collapse.show {
+    margin-top: 12px;
+    z-index: 99;
+}
+.navbar-light .navbar-nav .nav-link {
+    text-align: center;
+    margin: auto;
+    background-color: #12202f;
+} 
+.signup-btn {
+    margin: auto;
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+}
+.signup-btn:hover{
+    transform: scale(1);
+}   
+.banner-content{
+    text-align: center;
+    margin: 70px 0;
+    padding: 8px 15px;
+}
+.banner-content h1 {
+    font-size: 50px;
+}
+.banner-content h5 {
+    font-size: 30px;
+}
+.banner-content p {
+    font-size: 20px;
+}
+.banner-img {
+    margin-top: -25px;
+}
+
+.booking input {
+    width: 100%;
+}
+.cheek-btn:hover{
+    transform: scale(1);
+}
+button.btn.cheek-btn {
+    width: 100%;
+}
+section#book-section {
+    padding: 0 20px;
+}
+.book-table{
+    margin-top: 50px;
+}
+.booking {
+    padding: 20px 15px;
+    margin-top: 20px;
+}
+#food-categories-sec{
+    margin: 40px 0;
+}
+#food-categories-sec h2 {
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+.col-lg-4 {
+    margin-top: 25px;
+}
+#food-categories-sec .card-body h4 {
+    font-size: 30px;
+}
+#food-categories-sec p.card-text {
+    font-size: 20px;
+}
+.covit-content h3 {
+    font-size: 35px;
+}
+
+.our-restaurant-content {
+    text-align: center;
+    margin-top: 60px;
+    padding: 8px 15px;
+}
+.our-restaurant-content h2 {
+    font-size: 35px;
+}
+.our-restaurant-content p {
+    font-size: 16px;
+}
+.our-restaurant-img {
+    margin-top: 40px;
+}
+
+.fresh-and-healthy-content {
+    margin-top: 50px;
+    padding: 8px 15px;
+    text-align: center;
+}
+.fresh-and-healthy-content h2 {
+    font-size: 35px;
+}
+.fresh-and-healthy-content p {
+    font-size: 16px;
+}
+
+.chef-container {
+    padding: 8px 15px;
+    margin-top: 15px;
+    text-align: center;
+}
+.chef-content {
+    margin-top: 20px;
+}
+.chef-content h2 {
+    font-size: 35px;
+}
+.chef-content p {
+    font-size: 16px;
+}
+.col-lg-7 .chef-img{
+    margin-top: 60px;
+}
+
+.customer-content h2 {
+    font-size: 35px;
+    margin-bottom: -25px;
+}
+.col-lg-6 {
+    margin-top: 25px;
+}
+.customer-info {
+    margin-top: 15px;
+}
+.customer-info p{
+    font-size: 16px;
+}
+#customer-info {
+    margin-top: -40px;
+}
+
+.sub-content{
+    margin-top: 50px;
+ }
+ .sub-form {
+    padding: 0px;
+}
+ .sub-form.text-center {
+    margin-top: 30px;
+}
+
+#footer-sec {
+    text-align: center;
+    background-color: #f5880c;
+    margin-top: 45px;
+    padding: 12px 0;
+}
+.footer-1{
+    margin-top: 25px;
+}
+.social-icon .fa{
+    font-size: 20px;
+    margin: 0 5px;
+    padding: 5px 8px;
+ }
+ #footer-last{
+    margin-top: 0px;
+    margin-bottom: 20px;
+ }
+
+
+}
+
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+
+body{
+    background-color: #ebe3cd;
+    padding-top: 50px;
+}
+.nav-logo img.img-fluid {
+    margin-left: 50px;
+    width: 100px;
+}
+.navbar-light .navbar-toggler {
+    border: 2px solid white;
+    margin-right: 50px;
+}
+.collapse.show {
+    margin-top: 12px;
+    z-index: 99;
+}
+.navbar-light .navbar-nav .nav-link {
+    padding: 5px 0;
+    text-align: center;
+    margin: auto;
+    background-color: #12202f;
+} 
+.signup-btn {
+    margin: auto;
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+}
+.signup-btn:hover{
+    transform: scale(1);
+}
+   
+.banner-content{
+    margin: 70px 0;
+    padding: 8px 15px;
+}
+.banner-content h1 {
+    font-size: 35px;
+}
+.banner-content h5 {
+    font-size: 15px;
+}
+.banner-content p {
+    font-size: 14px;
+}
+.banner-img {
+    margin-top: -25px;
+}
+.booking {
+    padding: 15px 10px;
+    margin-top: 20px;
+    padding-bottom: 25px;
+}
+.booking input {
+    padding: 5px 10px;
+}
+button.btn.cheek-btn {
+    padding: 6px 6px;
+    font-size: 15px;
+    margin-top: 37px;
+    margin-right: -40px;
+}
+.col-lg-3.col-md-3 {
+    margin-right: -18px;
+}
+#food-categories-sec{
+    margin: 40px 0;
+}
+#food-categories-sec h2 {
+    margin-bottom: 10px;
+}
+.card_img {
+    margin: -10px;
+}
+.card-body.text-center {
+    padding: 10px 5px;
+    margin-top: 10px;
+}
+p.card-text {
+    font-size: 14px;
+}
+.our-restaurant-content {
+    margin-top: 130px;
+    padding: 10px 20px;
+}
+.fresh-and-healthy-content {
+    margin-top: 40px;
+    padding: 10px 20px;
+}
+.chef-content {
+    margin-top: 10px;
+    padding: 10px 15px;
+}
+.customer-info {
+    margin-top: 10px;
+}
+#customer-1 {
+    margin-top: -20px;
+}
+.sub-form {
+    padding: 10px 100px;
+}
+#footer-sec {
+    margin-top: 40px;
+    padding: 25px 0;
+}
+.footer-1 h3 {
+    font-size: 23px;
+}
+.footer-1 {
+    margin: auto;
+    box-shadow: none;
+    padding: 5px 8px;
+    border-radius: 10px;
+}
+.social-icon .fa{
+    font-size: 20px;
+    margin: 0 7px;
+    padding: 5px 8px;
+ }
+ #footer-last{
+    margin: auto;
+ }
+
+
+
+
+
+
+
+
+}
